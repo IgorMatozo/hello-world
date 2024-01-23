@@ -1,1 +1,1 @@
-# hello-world
+Repositorio Do meu primeiro exercicio de aprendizagem de como utilizar o git para clonar repositorios
